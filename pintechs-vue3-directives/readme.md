@@ -41,3 +41,6 @@ useDirectives(app);
   v-throttle="{ event: 'click', fn: testButtonThrottle, delay: 1000 }"
 ></el-button>
 ```
+
+## demo地址
+- github：https://github.com/Grancy-zgs/vue3-practice/tree/main/pintechs-vue3-directives
